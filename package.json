@@ -1,0 +1,24 @@
+{
+  "name": "io.github.evg-b.store",
+  "version": "0.5.0",
+  "displayName": "Store",
+  "description": "A lightweight Redux-style state container with selector subscriptions and optional diagnostics for Unity.",
+  "unity": "6000.0",
+  "author": {
+    "name": "evg-b",
+    "url": "https://github.com/evg-b"
+  },
+  "keywords": [
+    "store",
+    "state",
+    "redux",
+    "reactive"
+  ],
+  "samples": [
+    {
+      "displayName": "Counter Store",
+      "description": "A minimal reducer, selector subscription, dispatch, and lifecycle cleanup example.",
+      "path": "Samples~/CounterStore"
+    }
+  ]
+}
